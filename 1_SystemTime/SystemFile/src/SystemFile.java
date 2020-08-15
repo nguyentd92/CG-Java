@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class SystemTime {
+public class SystemFile {
     public static void main(String[] args) {
         Date now = new Date();
 
