@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberToTest {
+public class NumberToText {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
